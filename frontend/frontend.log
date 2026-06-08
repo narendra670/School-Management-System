@@ -1,0 +1,84 @@
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m325[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.224.94.86:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m8:31:20 PM[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m8:31:20 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m8:31:26 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m8:31:26 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m8:34:37 PM[22m [36m[1m[vite][22m[39m [32m.env changed, restarting server...[39m
+[2m8:34:37 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m8:47:49 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/Students.tsx, /src/pages/TeacherDetail.tsx, /src/pages/Dashboard.tsx, /src/pages/Classes.tsx, /src/pages/ClassDetail.tsx, /src/pages/Grades.tsx, /src/pages/StudentDetail.tsx, /src/pages/Attendance.tsx, /src/pages/Teachers.tsx[22m
+[2m8:47:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m8:47:53 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/types/index.ts[22m
+[2m8:47:59 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m8:48:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
+[2m8:48:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.tsx, /src/index.css[22m
+[2m9:01:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/Students.tsx, /src/pages/TeacherDetail.tsx, /src/pages/Dashboard.tsx, /src/pages/Classes.tsx, /src/pages/ClassDetail.tsx, /src/pages/Grades.tsx, /src/pages/StudentDetail.tsx, /src/pages/Attendance.tsx, /src/pages/Teachers.tsx[22m
+[2m9:01:53 PM[22m [36m[1m[vite][22m[39m [32mvite.config.ts changed, restarting server...[39m
+[2m9:01:53 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m9:02:07 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/components/Layout.tsx[22m
+[2m9:02:12 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.tsx, /src/index.css[22m
+[2m9:02:14 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m9:02:27 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m9:02:38 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.tsx, /src/index.css[22m
+[2m9:02:48 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m9:03:11 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m9:03:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m9:03:28 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m9:18:03 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/me[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m9:18:03 PM[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/auth/me[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1134:18)
+    at afterConnectMultiple (node:net:1715:7)
+[2m10:46:32 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m10:47:21 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m10:47:38 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m10:47:42 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mtailwind.config.js[22m
+[2m10:50:52 PM[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mtailwind.config.js[22m
+[2m10:51:06 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/index.css[22m
+[2m10:51:33 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css[22m
+[2m10:51:37 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
+[2m10:51:59 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
+[2m10:52:04 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m10:53:47 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m10:53:52 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m10:55:11 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m10:55:15 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.tsx, /src/index.css[22m
+[2m10:55:16 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.tsx, /src/index.css[22m
+[2m10:55:27 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Login.tsx, /src/index.css[22m
+[2m10:55:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m10:55:31 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m10:55:44 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Signup.tsx, /src/index.css[22m
+[2m10:55:48 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.tsx, /src/index.css[22m
+[2m10:56:14 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Dashboard.tsx, /src/index.css[22m
+[2m10:56:19 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Students.tsx, /src/index.css[22m
+[2m10:56:44 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Students.tsx, /src/index.css[22m
+[2m10:56:48 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Teachers.tsx, /src/index.css[22m
+[2m10:57:12 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Teachers.tsx, /src/index.css[22m
+[2m10:57:16 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Classes.tsx, /src/index.css[22m
+[2m10:57:40 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Classes.tsx, /src/index.css[22m
+[2m10:57:44 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Attendance.tsx, /src/index.css[22m
+[2m10:58:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Attendance.tsx, /src/index.css[22m
+[2m10:58:13 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Grades.tsx, /src/index.css[22m
+[2m10:58:39 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Grades.tsx, /src/index.css[22m
+[2m10:58:43 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/StudentDetail.tsx, /src/index.css[22m
+[2m10:59:03 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/StudentDetail.tsx, /src/index.css[22m
+[2m10:59:08 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TeacherDetail.tsx, /src/index.css[22m
+[2m10:59:20 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TeacherDetail.tsx, /src/index.css[22m
+[2m10:59:24 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ClassDetail.tsx, /src/index.css[22m
+[2m10:59:37 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ClassDetail.tsx, /src/index.css[22m
+[2m11:00:04 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
+[2m11:00:05 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
+[2m11:01:01 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m11:01:02 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Home.tsx, /src/index.css[22m
+[2m11:01:03 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/About.tsx, /src/index.css[22m
+[2m11:05:22 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
+[2m11:05:23 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
+[2m11:05:25 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
+[2m11:05:39 PM[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Layout.tsx, /src/index.css[22m
