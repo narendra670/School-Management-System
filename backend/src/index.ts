@@ -15,13 +15,8 @@ const PORT = process.env.PORT || 6500;
 const FRONTEND_URLS = (process.env.FRONTEND_URL || 'http://localhost:5173').split(',').map(s => s.trim());
 
 app.use(cors({
-  origin: (origin, callback) => {
-    if (!origin || FRONTEND_URLS.includes(origin)) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
-    }
-  },
+  origin: true,
+  credentials: true,
 }));
 app.use(express.json());
 

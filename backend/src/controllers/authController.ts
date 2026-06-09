@@ -24,6 +24,7 @@ export async function signup(req: Request, res: Response): Promise<void> {
     const token = generateToken(user._id.toString());
     res.status(201).json({ token, user: user.toJSON() });
   } catch (err) {
+    console.error('Error in signup:', err);
     res.status(500).json({ message: 'Server error' });
   }
 }
@@ -48,6 +49,7 @@ export async function login(req: Request, res: Response): Promise<void> {
     const token = generateToken(user._id.toString());
     res.json({ token, user: user.toJSON() });
   } catch (err) {
+    console.error('Error in login:', err);
     res.status(500).json({ message: 'Server error' });
   }
 }
@@ -61,6 +63,7 @@ export async function getMe(req: Request, res: Response): Promise<void> {
     }
     res.json({ user: user.toJSON() });
   } catch (err) {
+    console.error('Error in getMe:', err);
     res.status(500).json({ message: 'Server error' });
   }
 }
